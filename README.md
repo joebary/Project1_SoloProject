@@ -34,6 +34,9 @@ Joe's Real-time Currency Converter. This project contains a CLI python based pro
 ![5](https://user-images.githubusercontent.com/64050486/143781113-4f8566b3-dc8a-4e1c-8308-40174538d906.jpg)
 
 6- then you have enter the value.
+
+<br></br>
+
 ![6](https://user-images.githubusercontent.com/64050486/143781114-2b00fa95-ee4b-4c5a-8e4d-5a42fa4e466a.jpg)
 
 7- choose the foreign currency.
